@@ -2,4 +2,4 @@
 
 Today's lessons were Python Primitive Data Types, Mathematical Operations in Python and F Strings in Python.
 
-Today's project was to build a small tip calculators
+Today's project was to build a small tip calculator
